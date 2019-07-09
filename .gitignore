@@ -1,0 +1,13 @@
+conf/
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
+*.exe
+swagger/
+*.zip
+.idea/
+*.stackdump
+main
